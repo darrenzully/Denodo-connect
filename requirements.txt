@@ -1,0 +1,2 @@
+jadebeapi==1.2.3
+jpype==1.4.1
